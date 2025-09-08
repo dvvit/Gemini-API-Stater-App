@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="sunsetOrange">#FF6A00</color>
+    <color name="sunsetPink">#FF3D7F</color>
+    <color name="sunsetAccent">#FFD180</color>
+    <color name="sunsetCardBackground">#FF6A88</color>
+    <color name="sunsetCardBackgroundUser">#FF9A8B</color>
+
+
 </resources>
